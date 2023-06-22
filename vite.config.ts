@@ -96,8 +96,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.webp', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Vitesse',
-        short_name: 'Vitesse',
+        name: 'Misaka-L Index',
+        short_name: 'Misaka-L Index',
         theme_color: '#ffffff',
         icons: [
           {
