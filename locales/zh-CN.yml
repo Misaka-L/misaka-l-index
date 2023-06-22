@@ -1,0 +1,19 @@
+button:
+  about: 关于
+  back: 返回
+  go: 确定
+  home: 首页
+  toggle_dark: 切换深色模式
+  toggle_langs: 切换语言
+intro:
+  desc: 固执己见的 Vite 项目模板
+  dynamic-route: 动态路由演示
+  hi: 你好，{name}
+  aka: 也叫
+  whats-your-name: 输入你的名字
+nav:
+  home: 首页
+  blog: 博客
+  message-books: 留言板
+  contact: 联系方式
+not-found: 未找到页面
